@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Lib_IDNA2",
+    "type": "magento-module",
+    "license": "GNU-Lesser-General-Public-License",
+    "homepage": "",
+    "description": "Magento Library",
+    "authors": [
+    {
+        "name": "Magento Core Team",
+        "email": "core@magentocommerce.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
